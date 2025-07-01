@@ -12,14 +12,14 @@ This is Lalitha's Sub-Index
 | Row 2    | Data 2   |
 
 ##Lalitha's sample Table - Column heading with background Table
-| *Header 1* | *Header 2* |
+| ~Header 1~ | ~Header 2~ |
 |----------|----------|
 | Row 1    | Data 1   |
 | Row 2    | Data 2   |
 
 ##Lalitha's sample Table - Column and Row heading with background Table
-| *Header 1* | *Header 2* |
+| ~Header 1~ | ~Header 2~ |
 |----------|----------|
-| *Row 1*    | Data 1   |
-| *Row 2*    | Data 2   |
+| ~Row 1~    | Data 1   |
+| ~Row 2~    | Data 2   |
 
