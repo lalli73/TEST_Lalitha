@@ -43,7 +43,7 @@ A url to the organization security policy, (i.e. https://ethyca.com/privacy-poli
 ### Manifest File
 
 
-`organization:
+```organization:
   fides_key: default_organization
   name: Acme Incorporated
   description: An Organization that represents all of Acme Inc.
@@ -67,7 +67,7 @@ A url to the organization security policy, (i.e. https://ethyca.com/privacy-poli
 
 ### API Payload
 
-`
+```
 {
   "fides_key": "default_organization",
   "name": "Acme Incorporated",
